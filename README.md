@@ -34,7 +34,7 @@
   + Floss (Will do the "Floss" dance visible for everyone.)
   + Remove Animations (Will remove SOME of the animations.)
   + God Mode (You shouldn't buy rgk only for godmode cause it's not perfect yet)
-  + Invisibility (Will make you invisible. Visible for everyone!)
+  + Invisibility
   + Remove NameTag (Will remove the name above your character! Visible for everyone!)
   + Join smallest Server
   + Rejoin same server
