@@ -13,13 +13,13 @@
     + Low graphics mode (Will boost your FPS)
     + Medium Graphics Mode (Will still boost your fps and make your game more cartoony!)
     + RTX Mode (Will enhance your graphics)
-    + Kagune/Quinque Color Changer
+    + Kagune/Quinque Color Changer (Only visible to you)
     + Game Tint Color Modifications
     + Camera FOV Modifications
   + Character/Kagune/Quinque modulation
-    + Character Material / Character Color
-    + Kagune Material / Kagune Color
-    + Quinque Material / Quinque Color
+    + Character Material / Character Color (Only visible to you)
+    + Kagune Material / Kagune Color (Only visible to you)
+    + Quinque Material / Quinque Color (Only visible to you)
  
 + LocalPlayer
   + WalkSpeed
