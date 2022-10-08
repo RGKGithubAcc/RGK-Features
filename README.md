@@ -2,13 +2,15 @@
 
 + Aimbot
   + Target Specific Camera Aimbot (Will lock your camera on a player of your choice!)
-  + Gyro Aimbot (Will rotate all your body to a specific player of your choice!) (Very good for takis and crabs!)
+  + Gyro Aimbot (Will rotate all your body to a specific player of your choice!) (Very good for takis and crabs!) + Prediction and Custom Prediction Modifier
   + Takizawa Teleport (Will automatically teleport you behind a player of your choice and automatically do R!) (Should be used only with friends because it is blatant)
 + Visuals
   + ESP
   + Tracers
   + Boxes
   + Name ESP
+  + Distance ESP
+  + Chams
   + World Modulation
     + Low graphics mode (Will boost your FPS)
     + Medium Graphics Mode (Will still boost your fps and make your game more cartoony!)
@@ -16,6 +18,7 @@
     + Kagune/Quinque Color Changer (Only visible to you)
     + Game Tint Color Modifications
     + Camera FOV Modifications
+    + Skybox Changer
   + Character/Kagune/Quinque modulation
     + Character Material / Character Color (Only visible to you)
     + Kagune Material / Kagune Color (Only visible to you)
@@ -38,6 +41,10 @@
   + Remove NameTag (Will remove the name above your character! Visible for everyone!)
   + Join smallest Server
   + Rejoin same server
+  + Fake Lag
+    + Fake Lag Ticks
+    + Visualise Fake Lag
+    + Fake Lag Method (Static | Dynamic)
   + Remove CCG Case
   + Stats Modifiers (Only visuals can be used for fake level proofs!)
   + Level Changer
